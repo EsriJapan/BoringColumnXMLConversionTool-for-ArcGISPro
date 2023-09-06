@@ -12,7 +12,7 @@
 
 基本的に DTD version 4.00 で規定される XML 要素、DTD version 2.10、3.00 で規定される XML 要素のうち version 4.00 に同等の要素がある要素を変換の対象とします。XML 要素とファイル ジオデータベースのフィーチャクラスのフィールドに「標題情報」については要素が、「コア情報」では要素の各子要素がマッピングされます。 
 
-変換されるファイル ジオデータベースの詳細な定義は、「[ボーリング柱状図 XML 変換ツールスキーママッピング.xlsx]()」をご参照ください。 
+変換されるファイル ジオデータベースの詳細な定義は、「[ボーリング柱状図 XML 変換ツールスキーママッピング.xlsx](https://github.com/EsriJapan/BoringColumnXMLConversionTool-for-ArcGISPro/blob/main/Docs/%E3%83%9C%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%9F%B1%E7%8A%B6%E5%9B%B3XML%E5%A4%89%E6%8F%9B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0.xlsx)」をご参照ください。 
  
 
 ## 動作環境 
@@ -23,10 +23,10 @@
 * [Data Interoperability エクステンションのインストール](https://pro.arcgis.com/ja/pro-app/latest/help/data/data-interoperability/install-the-data-interoperability-extension.htm)
 
 ## 利用方法
-「[ボーリング柱状図 XML 変換ツール for ArcGIS Pro]()」をダウンロードして任意の場所に解凍してご利用ください。
+「[ボーリング柱状図 XML 変換ツール for ArcGIS Pro](https://github.com/BoringColumnXMLConversionTool-for-ArcGISPro/releases/download/v1.1.0/boringColumnXmlConersionArcGISPro.zip)」をダウンロードして任意の場所に解凍してご利用ください。
 このとき、ツールのフルパスにマルチバイト文字（日本語など）が含まれないようにしてください。
 
-利用方法の詳細は「[ボーリング柱状図 XML 変換ツール利用ガイド]()」をご参照ください。 
+利用方法の詳細は「[ボーリング柱状図 XML 変換ツール利用ガイド](https://github.com/EsriJapan/BoringColumnXMLConversionTool-for-ArcGISPro/blob/main/Docs/%E3%83%9C%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%9F%B1%E7%8A%B6%E5%9B%B3%20XML%20%E5%A4%89%E6%8F%9B%E3%83%84%E3%83%BC%E3%83%AB%20for%20ArcGIS%20Pro%20%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89%20.pdf)」をご参照ください。 
 
 ## 免責事項
 * 本ツールに含まれるカスタムツールは、サンプルとして提供しているものであり、動作に関する保証、および製品ライフサイクルに従った Esri 製品サポート サービスは提供しておりません。
