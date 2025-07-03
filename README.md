@@ -28,7 +28,7 @@
 「[ボーリング柱状図 XML 変換ツール for ArcGIS Pro](https://github.com/EsriJapan/BoringColumnXMLConversionTool-for-ArcGISPro/releases/download/v1.0.0/boringColumnXmlConersionArcGISPro.zip)」をダウンロードして任意の場所に解凍してご利用ください。
 このとき、ツールのフルパスにマルチバイト文字（日本語など）が含まれないようにしてください。
 
-利用方法の詳細は「[ボーリング柱状図 XML 変換ツール利用ガイド](https://github.com/EsriJapan/BoringColumnXMLConversionTool-for-ArcGISPro/blob/main/Docs/%E3%83%9C%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%9F%B1%E7%8A%B6%E5%9B%B3%20XML%20%E5%A4%89%E6%8F%9B%E3%83%84%E3%83%BC%E3%83%AB%20for%20ArcGIS%20Pro%20%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89%20.pdf)」をご参照ください。 
+利用方法の詳細は「[ボーリング柱状図 XML 変換ツール for ArcGIS Pro 利用ガイド](https://github.com/EsriJapan/BoringColumnXMLConversionTool-for-ArcGISPro/blob/main/Docs/%E3%83%9C%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E6%9F%B1%E7%8A%B6%E5%9B%B3%20XML%20%E5%A4%89%E6%8F%9B%E3%83%84%E3%83%BC%E3%83%AB%20for%20ArcGIS%20Pro%20%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89%20.pdf)」をご参照ください。 
 
 ## 免責事項
 * 本ツールに含まれるカスタムツールは、サンプルとして提供しているものであり、動作に関する保証、および製品ライフサイクルに従った Esri 製品サポート サービスは提供しておりません。
