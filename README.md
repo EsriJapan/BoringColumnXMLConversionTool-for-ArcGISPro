@@ -18,6 +18,8 @@
 ## 動作環境 
 本ツールを実行するには、バージョン 3.1 以上の ArcGIS Pro と ArcGIS Data Interoperability エクステンション をインストールし（ArcGIS Pro とArcGIS Data Interoperability のインストーラーは、それぞれ別々に提供されております。My Esri からそれぞれのインストーラーを入手いただき、インストールして頂く必要があります）、ライセンスを有効化している必要があります。 
 
+※ ArcGIS Pro バージョン 3.5 では正常に動作しないことが確認されております。本ツールをご利用する場合は ArcGIS Pro バージョン 3.4 以前のものをご利用ください。 
+
 詳細な動作環境、およびData Interoperability エクステンション のインストール方法は、以下をご参照ください。
 * [ArcGIS Pro の動作環境](https://www.esrij.com/products/arcgis-pro/spec/)
 * [Data Interoperability エクステンションのインストール](https://pro.arcgis.com/ja/pro-app/latest/help/data/data-interoperability/install-the-data-interoperability-extension.htm)
